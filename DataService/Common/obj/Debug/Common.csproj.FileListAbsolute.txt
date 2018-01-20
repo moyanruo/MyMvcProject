@@ -1,0 +1,8 @@
+E:\测试项目\MyMvcProject\DataService\Common\bin\Debug\Common.dll
+E:\测试项目\MyMvcProject\DataService\Common\bin\Debug\Common.pdb
+E:\测试项目\MyMvcProject\DataService\Common\obj\Debug\Common.dll
+E:\测试项目\MyMvcProject\DataService\Common\obj\Debug\Common.pdb
+E:\测试项目\MyMvcProject\DataService\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\测试项目\MyMvcProject\DataService\Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\测试项目\MyMvcProject\DataService\Common\bin\Debug\Newtonsoft.Json.dll
+E:\测试项目\MyMvcProject\DataService\Common\bin\Debug\Newtonsoft.Json.xml

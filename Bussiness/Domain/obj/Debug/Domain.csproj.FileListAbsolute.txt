@@ -1,0 +1,11 @@
+E:\测试项目\MyMvcProject\Bussiness\Domain\bin\Debug\Domain.dll.config
+E:\测试项目\MyMvcProject\Bussiness\Domain\bin\Debug\Domain.dll
+E:\测试项目\MyMvcProject\Bussiness\Domain\bin\Debug\Domain.pdb
+E:\测试项目\MyMvcProject\Bussiness\Domain\bin\Debug\EntityFramework.dll
+E:\测试项目\MyMvcProject\Bussiness\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\测试项目\MyMvcProject\Bussiness\Domain\bin\Debug\EntityFramework.xml
+E:\测试项目\MyMvcProject\Bussiness\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\测试项目\MyMvcProject\Bussiness\Domain\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\测试项目\MyMvcProject\Bussiness\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\测试项目\MyMvcProject\Bussiness\Domain\obj\Debug\Domain.dll
+E:\测试项目\MyMvcProject\Bussiness\Domain\obj\Debug\Domain.pdb

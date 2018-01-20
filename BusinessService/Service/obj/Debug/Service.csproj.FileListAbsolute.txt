@@ -1,0 +1,17 @@
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\Service.dll
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\Service.pdb
+E:\测试项目\MyMvcProject\BusinessService\Service\obj\Debug\Service.dll
+E:\测试项目\MyMvcProject\BusinessService\Service\obj\Debug\Service.pdb
+E:\测试项目\MyMvcProject\BusinessService\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\Service.dll.config
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\Common.dll
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\Domain.dll
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\EntityFramework.dll
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\EntityFramework.SqlServer.dll
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\Domain.pdb
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\Common.pdb
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\EntityFramework.xml
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\EntityFramework.SqlServer.xml
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\Newtonsoft.Json.dll
+E:\测试项目\MyMvcProject\BusinessService\Service\bin\Debug\Newtonsoft.Json.xml
